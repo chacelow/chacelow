@@ -1,6 +1,6 @@
 # Hello, I'm chacelow 👋
 
-music maker & dev
+music maker & vibe coder
 
 ## Tech I use
 
@@ -15,20 +15,6 @@ music maker & dev
 ### Testing & Tooling
 
 ![Testing and Tooling](https://go-skill-icons.vercel.app/api/icons?i=playwright,vitest,git,pnpm,github)
-
-### Agent & AI
-
-`MCP` · `Agent Skills` · `Vercel AI SDK` · `OpenAI` · `Anthropic` · `Gemini` · `Ollama`
-
-## Things I'm building
-
-### [ZoeyMind](https://github.com/zoeymind/zoeymind-desktop)
-
-面向测试人员、本地优先的功能测试用例编辑器。使用思维导图组织用例，让 AI Agent 参与编写，并与 XMind / MeterSphere 双向流通。
-
-### [UE5 Editor Control](https://github.com/chacelow/ue5-editor-control)
-
-让 AI Agent 控制 Unreal Engine 5 编辑器的 Agent Skill 与 C++ 插件。
 
 ## GitHub Stats
 
