@@ -1,16 +1,6 @@
 # Hello, I'm chacelow 👋
 
-网络漂浮物，测试开发与独立开发者。
-
-从一线软件测试走到测试平台开发，把反复出现的问题做成工具。
-
-From software testing to test platform engineering — building tools for recurring problems.
-
-## About me
-
-- 正在做测试平台与工程效率相关的工作
-- 关注测试工具、AI Agent、Web 与桌面应用
-- 偶尔探索游戏引擎和一些暂时没有明确用途的小工具
+music maker & dev
 
 ## Tech I use
 
